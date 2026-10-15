@@ -5,6 +5,8 @@
 Développeur en **informatique de gestion** (Master I MIAGE), basé à **Bamako, Mali**.
 Je conçois des logiciels de gestion pour les entreprises d'Afrique de l'Ouest : caisse, stocks, ventes, crédit client, facturation. Des outils pensés pour le terrain, qui continuent de fonctionner quand la connexion coupe.
 
+Fondateur et gérant d'**[ABC STUDY](https://viem0s.github.io/abc-study/)**, entreprise de commerce général et de prestations de services à Bamako.
+
 *Business software developer based in Bamako, Mali — [English portfolio](https://viem0s.github.io/en/).*
 
 ---
